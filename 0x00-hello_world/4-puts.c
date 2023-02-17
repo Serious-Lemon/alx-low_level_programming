@@ -1,6 +1,8 @@
 #include <stdio.h>
-/* MAIN ENTRY */
-/* RETURN 0 */
+/*
+ * MAIN ENTRY
+ * ALWAYS RETURN 0
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
