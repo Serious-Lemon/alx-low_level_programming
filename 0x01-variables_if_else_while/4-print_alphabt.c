@@ -12,7 +12,7 @@ int main(void)
 
 	alp = 'a';
 
-	while (alp <= z)
+	while (alp <= 'z')
 	{
 		if (alp != 'q' && alp != 'e')
 		{
